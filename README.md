@@ -1,7 +1,7 @@
 ### Hi there, I'm Hussein👋
 
 - 👀 I’m interested in Software Development and Machine Learning, 
-- 🔭 I’m currently working on a Smart Health Prediction System
+- 🔭 I’m currently working on an Image Recognition program & Smart Health Prediction System
 - 🌱 I’m currently learning React.js and MongoDB
 - 👯 I’m looking to collaborate on all Software Development related stuff 
 - 📫 How to reach me: 
