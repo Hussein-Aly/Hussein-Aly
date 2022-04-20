@@ -8,5 +8,5 @@
   - [Gmail](husseinahmedselim@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/hussein-aly-6190521a0/)
                         
-- ⚡ Fun fact: I transferred from bachelor of Software Engineering to AI 
+- ⚡ Fun fact: I transferred from Bachelor of Software Engineering to AI 
 
